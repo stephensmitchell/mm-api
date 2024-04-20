@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mm", "mm.pyproj", "{6734E60E-ABD8-4B85-8F88-0E61674523F6}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "basic_python_demos", "examples\basic_python_demos.pyproj", "{99A0B5D3-7B15-4AFF-AAD4-10E9B0C719A2}"
@@ -18,5 +20,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AB4953-E187-4CCA-A1AA-D900E51AD734}
 	EndGlobalSection
 EndGlobal
